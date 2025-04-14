@@ -1,0 +1,1 @@
+Genrate synapse Config File
